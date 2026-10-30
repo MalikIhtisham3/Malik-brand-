@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Malik Brand",
+    "slug": "Malik-brand-",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.malikbrand.app"
+    }
+  }
+}
